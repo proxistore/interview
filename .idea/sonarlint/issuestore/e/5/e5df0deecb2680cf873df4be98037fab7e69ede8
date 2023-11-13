@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ££Ìøÿÿÿÿ8ì¾ˆÒ¼1
+]
+java:S1854	";Remove this useless assignment to local variable "persons".(¿¢Àüÿÿÿÿ8ò¾ˆÒ¼1
+N
+java:S3599	",Use another way to initialize this instance.(¿¢Àüÿÿÿÿ8ó¾ˆÒ¼1
+{
+java:S1171	"YMove the contents of this initializer to a standard constructor or to field initializers.(¿¢Àüÿÿÿÿ8ô¾ˆÒ¼1
+N
+java:S1481	",Remove this unused "persons" local variable.(¿¢Àüÿÿÿÿ8÷¾ˆÒ¼1
+O
+java:S1135"2Complete the task associated to this TODO comment.(œ÷åİ8ø¾ˆÒ¼1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ù¾ˆÒ¼1
